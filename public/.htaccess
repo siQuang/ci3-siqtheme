@@ -1,0 +1,15 @@
+# ----------------------------------------------------------------------
+# Rewrite engine
+# ----------------------------------------------------------------------
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Disable Directory Browsing
+    Options All -Indexes
+
+    # Delete index.php and .php in the url
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond $1 !^(index\.php|assets|images|css|js|robots\.txt|favicon\.ico)
+    RewriteRule ^(.*)$ ./index.php?/$1 [L,QSA]
+</IfModule>
