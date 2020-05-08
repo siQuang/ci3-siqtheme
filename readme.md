@@ -1,6 +1,6 @@
 # Codeigniter 3 with siQtheme and Laravel-Mix
 
-!["CI3-siQtheme"](https://siquang.com/assets/img/ci3_siqtheme "CI3-siQtheme")
+!["CI3-siQtheme"](https://siquang.com/assets/img/ci3_siqtheme.jpg "CI3-siQtheme")
 
 This is a fresh install of Codeigniter 3 integrated with laravel-mix and siQtheme admin template.
 
