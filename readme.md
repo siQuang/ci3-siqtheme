@@ -1,6 +1,8 @@
 # Codeigniter 3 with siQtheme and Laravel-Mix
 
-This is a fresh install of Codeigniter 3 integrated with laravel-mix and the free siQtheme template.
+!["CI3-siQtheme"](https://siquang.com/assets/img/ci3_siqtheme "CI3-siQtheme")
+
+This is a fresh install of Codeigniter 3 integrated with laravel-mix and siQtheme admin template.
 
 **[Laravel-Mix](https://laravel-mix.com)**
 
@@ -21,4 +23,8 @@ This is a fresh install of Codeigniter 3 integrated with laravel-mix and the fre
 $ npm install
 ```
 
-Open a browser and type in your project URL.
+Open a browser and type in the project URL.
+
+I've written an article explaning the process that you can follow here.
+
+**[Integrating Laravel-Mix and siQtheme with Codeigniter 3](https://medium.com/@simonquang/integrating-laravel-mix-and-siqtheme-with-codeigniter-3-606191a5eda3)**
