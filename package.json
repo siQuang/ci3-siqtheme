@@ -43,6 +43,6 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "siqtheme": "^1.0.3"
+    "siqtheme": "^1.0.9"
   }
 }
